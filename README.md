@@ -22,7 +22,7 @@ README.md
 
 .gitattributes
 
-🧠 Features
+##🧠 Features
 
 CNN Models trained from scratch with Conv2D, MaxPooling, Dense, and Dropout layers.
 
