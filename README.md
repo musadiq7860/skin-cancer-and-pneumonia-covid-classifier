@@ -1,4 +1,4 @@
-Skin Cancer and Pneumonia/COVID Classifier
+## Skin Cancer and Pneumonia/COVID Classifier
 
 This repository contains Convolutional Neural Network (CNN) models for medical image classification. Two separate CNN pipelines are developed:
 
