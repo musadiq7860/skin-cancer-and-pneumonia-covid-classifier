@@ -34,7 +34,7 @@ Binary classification (2 classes): Malignant, Benign (Skin cancer).
 
 Achieved ~90% validation accuracy in pneumonia/covid classification.
 
-🚀 How to Run
+## How to Run
 
 Clone the repo.
 
