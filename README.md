@@ -8,7 +8,7 @@ Pneumonia & COVID Detection – Multi-class classification of chest X-ray images
 
 Both models are built using TensorFlow/Keras and trained with data augmentation for better generalization.
 
-📂 Project Structure
+## Project Structure
 
 Pneumonia and covid classifier.ipynb → CNN notebook for pneumonia & COVID detection
 
