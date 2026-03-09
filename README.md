@@ -2,7 +2,7 @@
 
 This repository contains Convolutional Neural Network (CNN) models for medical image classification. Two separate CNN pipelines are developed:
 
-Skin Cancer Detection – Binary classification of skin lesion images into benign or malignant.
+## Skin Cancer Detection – Binary classification of skin lesion images into benign or malignant.
 
 Pneumonia & COVID Detection – Multi-class classification of chest X-ray images into COVID, Pneumonia, or Normal.
 
